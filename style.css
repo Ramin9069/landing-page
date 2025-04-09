@@ -35,7 +35,7 @@ li {
 }
 
 .hero {
-    padding: 32px;
+    padding: 24px 32px;
     display: flex;
     justify-content: space-evenly;
 }
@@ -65,9 +65,37 @@ h1 {
     background-color: #6D747D;
     color: #e5e7eb;
     min-width: 500px;
-    width: 1000px;
+    width: 700px;
     height: 300px;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+h2 {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+    text-align: center;
+}
+
+.item-container {
+    display: flex;
+    justify-content: center;
+    gap: 48px;
+}
+
+.item {
+    max-width: 150px;
+}
+
+.item-image {
+    border: 5px solid #3B82F6;
+    width: 150px;
+    height: 150px;
+    border-radius: 15px;
+}
+.item-text {
+    color: #616A76;
+    text-align: center;
 }
