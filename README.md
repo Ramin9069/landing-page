@@ -1,1 +1,1 @@
-This is my second project in TOP and I have created a landinf page by using the lessons I have recieved during the CSS and Flex box courses.
+This is my second project in TOP and I have created a landing page by using the lessons I have recieved during the CSS and Flex box courses.
