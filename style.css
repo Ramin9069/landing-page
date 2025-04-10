@@ -129,6 +129,7 @@ h2 {
 
 .action {
     height: 200px;
+    padding: 64px 0;
     display: flex;
     justify-content: center;
     align-items: center;
